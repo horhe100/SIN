@@ -2,9 +2,11 @@
 <html>
 	<head>
 		<title>SIN | <%= @title %></title>
-		<%= csrf_meta_tag %>
 	</head>
+
 	<body>
-		<%= yield %>
+		<h1>SIN</h1>
+		<p>This is the about page for SIN</p>
 	</body>
 </html>
+
