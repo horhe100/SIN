@@ -1,4 +1,4 @@
 <h1>SIN</h1>
 <p>This is the home page for SIN</p>
 
-<%= link_to "Sign up now!", '#', :class => 'signup_button round" %>
+<%= link_to "Sign up now!", '#', :class => "signup_button round" %>
